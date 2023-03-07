@@ -1,2 +1,2 @@
 # daeheeWEB
-test WEB for my learning
+Daehee's website test
